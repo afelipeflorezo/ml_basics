@@ -1,4 +1,4 @@
-# 🧠 ML Basics — Guía Práctica de Machine Learning en Python
+# Guía Práctica de Machine Learning en Python
 
 Repositorio educativo con **10 proyectos prácticos** de Machine Learning clásico y Deep Learning, diseñado como referencia de aprendizaje progresivo. Cada proyecto es autocontenido e incluye dataset, notebook interactivo y modelo pre-entrenado listo para usar.
 
